@@ -1,0 +1,22 @@
+
+* {
+    margin:0;
+}
+
+section {
+    margin:auto;
+    width: fit-content;
+}
+
+h1{
+    padding: 8px;
+}
+
+.column {
+    padding: 20px;
+    display: inline-block;
+}
+
+.list{
+    padding: 10px;
+}
